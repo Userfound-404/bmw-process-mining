@@ -69,14 +69,14 @@ streamlit run app/dashboard.py
 ```bash
 
 
-📊 Example Insights
+## 📊 Example Insights
 Assembly is the biggest bottleneck (~30% of total delay)
 Night shift is significantly slower than morning shift
 Supplier S103 causes major production delays
 SUV models take longer to complete
 ML model predicts late orders with ~0.80 ROC-AUC
 
-🧠 Skills Demonstrated
+## 🧠 Skills Demonstrated
 Process Mining (PM4Py)
 Machine Learning (scikit-learn)
 Data Engineering (Pandas pipelines)
@@ -84,13 +84,13 @@ Simulation modeling
 Dashboard development (Streamlit)
 Business analytics & optimization thinking
 
-🚀 Future Improvements
+## 🚀 Future Improvements
 Deploy on Streamlit Cloud
 Add SHAP explainability for ML model
 Real-time event streaming (Kafka simulation)
 Cost optimization layer (€ impact analysis)
 
-Architecture Diagram:
+## Architecture Diagram:
 
                  ┌────────────────────┐
                  │   Streamlit UI    │
