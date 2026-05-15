@@ -1,8 +1,5 @@
-Here is your **fully cleaned, GitHub-ready README (pastable version)** with all formatting fixed:
 
----
 
-````markdown
 # 🚗 Order-to-Delivery Process Mining Platform (BMW-Inspired)
 
 ## 📌 Overview
