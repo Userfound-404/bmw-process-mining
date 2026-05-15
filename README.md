@@ -66,6 +66,7 @@ python3 -m models.train_predictive
 
 # Step 4: Launch dashboard
 streamlit run app/dashboard.py
+```bash
 
 
 📊 Example Insights
